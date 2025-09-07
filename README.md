@@ -43,6 +43,7 @@ Processing:
 Combined headline + short_description into one column → text
 
 ⚙️ Methodology
+
 🔹 1. Data Preprocessing
 
 Removed duplicates & missing values
